@@ -194,4 +194,5 @@ Enhanced model speed by 20% through input normalization and efficient blob conve
 
 | Input Image                                                                              | Prediction    |
 | ---------------------------------------------------------------------------------------- | ------------- |
-| ![sample](https://github.com/spmallick/learnopencv/raw/master/AgeGender/images/ajay.jpg) | Male, (25–32) |
+| (https://github.com/user-attachments/assets/a2eb3b65-8780-4ad2-848a-64696347292e)
+) | Male, (21–25) |
