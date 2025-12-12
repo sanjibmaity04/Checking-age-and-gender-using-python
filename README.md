@@ -190,10 +190,9 @@ Enhanced model speed by 20% through input normalization and efficient blob conve
 
 ---
 
-## 🧩 **Sample Output**
-
 | Input Image                                                                              | Prediction    |
 | ---------------------------------------------------------------------------------------- | ------------- |
-| ![5911494109691904_photoS31SOP (1)](https://github.com/user-attachments/assets/fc75435e-6424-46f8-a42e-3830f45a740b)
+|![5911494109691904_photoS31SOP (1)](https://github.com/user-attachments/assets/123913b7-7a73-4368-8f4d-3d5a02daaa83)| Male, (21-25) |
 
-| Male, (21–25) |
+
+
